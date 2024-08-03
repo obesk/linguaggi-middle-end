@@ -6,7 +6,7 @@ Assignment svolti per il corso di linguaggi e compilatori.
 
 I file sono organizzati in assignmets. Le cartelle chiamate `ASSINGMENT{N}` contengono i sorgenti utilizzati per risolvere l'assignemt.
 
-La cartella `common` contiene i file di llvm per buildare correttamente l'eseguibile con tutti i passi.
+La cartella `COMMON` contiene i file di llvm per buildare correttamente l'eseguibile con tutti i passi.
 
 La cartella `TEST` contiene i programmi c per testare i passi di ottimizzazione creati. 
 
